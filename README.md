@@ -1,0 +1,1 @@
+This project is about recreating the google home page in order to become more familiar with HTML and CSS.
